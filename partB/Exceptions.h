@@ -1,6 +1,4 @@
-//
-// Created by Ziv on 24/06/2021.
-//
+
 
 #ifndef EX2PARTB_EXCEPTIONS_H
 #define EX2PARTB_EXCEPTIONS_H
